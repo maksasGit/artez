@@ -18,6 +18,7 @@ public class User {
     private String password;
     private int age;
     private SexType sex;
+    private String email;
 }
 
 enum SexType{
